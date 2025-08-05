@@ -1,0 +1,29 @@
+Jogador: Joao
+Palavra: oceano
+Resultado: VITÓRIA
+Letras corretas: 5
+Letras incorretas: 0
+Total de letras tentadas: 5
+-----------------------------
+Jogador: Paulo
+Palavra: biblioteca
+Resultado: VITÓRIA
+Letras corretas: 8
+Letras incorretas: 0
+Total de letras tentadas: 8
+-----------------------------
+Jogador: Xavier
+Palavra: bussola
+Resultado: VITÓRIA
+Letras corretas: 6
+Letras incorretas: 2
+Total de letras tentadas: 8
+-----------------------------
+Jogador: Paulo
+Palavra: energia
+Resultado: VITÓRIA
+Letras corretas: 6
+Letras incorretas: 2
+Total de letras tentadas: 8
+Tempo de jogo (s): 81
+-----------------------------

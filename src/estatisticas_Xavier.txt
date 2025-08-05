@@ -1,0 +1,9 @@
+Jogo #1
+Palavra: bussola
+Resultado: VITÓRIA
+Letras tentadas: a b f l o p s u
+Tentativas restantes: 4
+Corretas: 6
+Incorretas: 2
+Total tentativas: 8
+-----------------------------

@@ -1,0 +1,15 @@
+Jogo #1
+Palavra: girassol
+Resultado: VITÓRIA
+Letras tentadas: a d e f g i l m n o r s
+Tentativas restantes: 1
+-----------------------------
+Jogo #1
+Palavra: oceano
+Resultado: VITÓRIA
+Letras tentadas: a c e n o
+Tentativas restantes: 6
+Corretas: 5
+Incorretas: 0
+Total tentativas: 5
+-----------------------------

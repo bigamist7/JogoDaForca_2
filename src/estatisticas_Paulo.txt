@@ -1,0 +1,19 @@
+Jogo #1
+Palavra: biblioteca
+Resultado: VITÓRIA
+Letras tentadas: a b c e i l o t
+Tentativas restantes: 6
+Corretas: 8
+Incorretas: 0
+Total tentativas: 8
+-----------------------------
+Jogo #1
+Palavra: energia
+Resultado: VITÓRIA
+Letras tentadas: a e g i l m n r
+Tentativas restantes: 4
+Corretas: 6
+Incorretas: 2
+Total tentativas: 8
+Tempo de jogo (s): 81
+-----------------------------
